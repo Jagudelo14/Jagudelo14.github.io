@@ -22,7 +22,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/Jagudelo14.github.io/",
+  base: "/",
   resolve: {
     alias: {
       // Alias @ to the src directory

@@ -10,11 +10,6 @@ pnpm-debug.log*
 node_modules/
 .pnpm/
 
-# Directorios de compilación (Build)
-dist/
-dist-ssr/
-*.local
-
 # Editor directories and files
 .vscode/
 .idea/
